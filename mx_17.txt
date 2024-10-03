@@ -1,0 +1,400 @@
+table public.account_edi_format_account_journal_rel is not in odoo 17
+table public.approval_order is not in odoo 17
+table public.mail_channel_partner is not in odoo 17
+table public.maintenance_equipment_category is not in odoo 17
+table public.sale_order_template is not in odoo 17
+table public.stock_location_route is not in odoo 17
+table public.mail_mail_res_partner_rel is not in odoo 17
+table public.mail_message_res_partner_rel is not in odoo 17
+table public.mrp_production_mrp_recompute_cost_rel is not in odoo 17
+table public.base_automation_ir_model_fields_rel is not in odoo 17
+table public.stock_quant is not in odoo 17
+table public.quality_check_point is not in odoo 17
+table public.stock_picking_bills_rel is not in odoo 17
+table public.x_ is not in odoo 17
+table public.crm_iap_lead_industry_crm_iap_lead_mining_request_rel is not in odoo 17
+table public.account_move_line_account_tax_rel is not in odoo 17
+table public.stock_location_route_move is not in odoo 17
+table public.res_users_stock_picking_type_rel is not in odoo 17
+table public.hr_skill is not in odoo 17
+table public.payment_acquirer_payment_icon_rel is not in odoo 17
+table public.mail_message_res_partner_needaction_rel is not in odoo 17
+table public.warehouse_can_picking_users is not in odoo 17
+table public.ir_translation is not in odoo 17
+table public.hr_job is not in odoo 17
+table public.auth_oauth_provider is not in odoo 17
+table public.procurement_group is not in odoo 17
+table public.hr_plan_hr_plan_activity_type_rel is not in odoo 17
+table public.approval_rule is not in odoo 17
+table public.ir_exports is not in odoo 17
+table public.account_bank_statement_line is not in odoo 17
+table public.stock_move_line_consume_rel is not in odoo 17
+table public.account_account_template is not in odoo 17
+table public.approval_product_line is not in odoo 17
+table public.purchase_order_stock_picking_rel is not in odoo 17
+table public.mrp_workcenter_productivity is not in odoo 17
+table public.account_tax_report_line is not in odoo 17
+table public.account_tax_repartition_line_template is not in odoo 17
+table public.mail_mail is not in odoo 17
+table public.stock_valuation_layer is not in odoo 17
+table public.account_payment is not in odoo 17
+table public.account_journal_outbound_payment_method_rel is not in odoo 17
+table public.resource_calendar_leaves is not in odoo 17
+table public.account_tax_report_line_tags_rel is not in odoo 17
+table public.mrp_recompute_cost is not in odoo 17
+table public.approval_type is not in odoo 17
+table public.mrp_routing_workcenter is not in odoo 17
+table public.account_asset_asset is not in odoo 17
+table public.product_product_stock_inventory_rel is not in odoo 17
+table public.product_taxes_rel is not in odoo 17
+table public.purchase_order_line is not in odoo 17
+table public.account_tax_template is not in odoo 17
+table public.mail_message_res_partner_starred_rel is not in odoo 17
+table public.message_attachment_rel is not in odoo 17
+table public.stock_valuation_generate_record is not in odoo 17
+table public.note_stage is not in odoo 17
+table public.crm_iap_lead_mining_request_res_country_state_rel is not in odoo 17
+table public.approval_flow_line is not in odoo 17
+table public.account_edi_format is not in odoo 17
+table public.hr_plan_activity_type is not in odoo 17
+table public.account_asset_category is not in odoo 17
+table public.account_partial_reconcile is not in odoo 17
+table public.approval_entry is not in odoo 17
+table public.app_error_log is not in odoo 17
+table public.product_supplier_taxes_rel is not in odoo 17
+table public.quality_team is not in odoo 17
+table public.account_account_tax_default_rel is not in odoo 17
+table public.fetchmail_server is not in odoo 17
+table public.hr_resume_line is not in odoo 17
+table public.stock_picking_invoices_rel is not in odoo 17
+table public.account_move_approval_order_rel is not in odoo 17
+table public.product_pricelist_item is not in odoo 17
+table public.crm_iap_lead_mining_request_res_country_rel is not in odoo 17
+table public.quality_check_point_stock_picking_type_rel is not in odoo 17
+table public.account_move_line is not in odoo 17
+table public.ir_exports_line is not in odoo 17
+table public.purchase_requisition_line is not in odoo 17
+table public.account_account_type is not in odoo 17
+table public.mail_message_mail_channel_rel is not in odoo 17
+table public.product_category_stock_valuation_generate_record_rel is not in odoo 17
+table public.crm_iap_lead_mining_request is not in odoo 17
+table public.mrp_eco_type is not in odoo 17
+table public.sale_order_tag_rel is not in odoo 17
+table public.account_journal_inbound_payment_method_rel is not in odoo 17
+table public.push_account is not in odoo 17
+table public.expense_tax is not in odoo 17
+table public.stock_inventory_line is not in odoo 17
+table public.account_mxreport_footnote is not in odoo 17
+table public.product_supplierinfo is not in odoo 17
+table public.sale_order_line_invoice_rel is not in odoo 17
+table public.project_allowed_internal_users_rel is not in odoo 17
+table public.account_tax_repartition_minus_report_line is not in odoo 17
+table public.account_financial_html_report is not in odoo 17
+table public.stock_age_range is not in odoo 17
+table public.maintenance_equipment is not in odoo 17
+table public.mrp_bom_line is not in odoo 17
+table public.hr_leave_type is not in odoo 17
+table public.mail_channel_res_groups_rel is not in odoo 17
+table public.mxedi_format is not in odoo 17
+table public.base_automation is not in odoo 17
+table public.mrp_production is not in odoo 17
+table public.sale_order is not in odoo 17
+table public.hr_plan is not in odoo 17
+table public.ir_ui_menu_category is not in odoo 17
+table public.quality_check_order is not in odoo 17
+table public.stock_move is not in odoo 17
+table public.account_asset_depreciation_line is not in odoo 17
+table public.account_bank_statement is not in odoo 17
+table public.mrp_workorder is not in odoo 17
+table public.approval_flow_line_res_users_rel is not in odoo 17
+table public.payment_icon is not in odoo 17
+table public.stock_move_line_shipping is not in odoo 17
+table public.payment_acquirer is not in odoo 17
+table public.account_financial_html_report_line is not in odoo 17
+table public.purchase_order is not in odoo 17
+table public.purchase_requisition is not in odoo 17
+table public.approval_flow_approval_rule_rel is not in odoo 17
+table public.mrp_workcenter is not in odoo 17
+table public.hr_skill_level is not in odoo 17
+table public.sale_order_template_line is not in odoo 17
+table public.account_move_purchase_order_rel is not in odoo 17
+table public.stock_move_line is not in odoo 17
+table public.account_full_reconcile is not in odoo 17
+table public.account_tax_sale_order_line_rel is not in odoo 17
+table public.stock_picking is not in odoo 17
+table public.quality_check_type is not in odoo 17
+table public.stock_inventory_stock_location_rel is not in odoo 17
+table public.stock_wh_resupply_table is not in odoo 17
+table public.mrp_eco_stage is not in odoo 17
+table public.dynamic_report_manager is not in odoo 17
+table public.job_favorite_user_rel is not in odoo 17
+table public.mail_channel is not in odoo 17
+table public.res_partner_category is not in odoo 17
+table public.account_tax_repartition_plus_report_line is not in odoo 17
+table public.account_account_tag_account_move_line_rel is not in odoo 17
+table public.account_edi_document is not in odoo 17
+table public.picking_type_final_users is not in odoo 17
+table public.ir_server_object_lines is not in odoo 17
+table public.account_account_tag_account_tax_repartition_line_rel is not in odoo 17
+table public.account_chart_template is not in odoo 17
+table public.approval_flow is not in odoo 17
+table public.hr_expense is not in odoo 17
+table public.account_mxreport_manager is not in odoo 17
+table public.stock_warehouse_orderpoint is not in odoo 17
+table public.mxedi_document is not in odoo 17
+table public.warehouse_can_picking_manager_users is not in odoo 17
+table public.stock_scrap is not in odoo 17
+table public.crm_lead is not in odoo 17
+table public.res_currency_rate is not in odoo 17
+table public.hr_recruitment_source is not in odoo 17
+table public.account_tax_report is not in odoo 17
+table public.stock_inventory is not in odoo 17
+table public.stock_putaway_rule is not in odoo 17
+table public.sale_order_line is not in odoo 17
+table public.approval_account_line is not in odoo 17
+table public.crm_tag is not in odoo 17
+table public.stock_move_move_rel is not in odoo 17
+table public.res_partner_bank is not in odoo 17
+table public.mrp_bom is not in odoo 17
+table public.ir_mail_server is not in odoo 17
+table public.account_tax_purchase_order_line_rel is not in odoo 17
+key alias_user_id is not in odoo 17 table public.mail_alias
+key user_type_id is not in odoo 17 table public.account_account
+key internal_type is not in odoo 17 table public.account_account
+key is_off_balance is not in odoo 17 table public.account_account
+key customer_assist_accounting is not in odoo 17 table public.account_account
+key supplier_assist_accounting is not in odoo 17 table public.account_account
+key person_assist_accounting is not in odoo 17 table public.account_account
+key project_assist_accounting is not in odoo 17 table public.account_account
+key parent_id is not in odoo 17 table public.account_account
+key account_cost_type is not in odoo 17 table public.account_account
+key location_id is not in odoo 17 table public.stock_rule
+key res_model_id is not in odoo 17 table public.mail_activity_type
+key default_next_type_id is not in odoo 17 table public.mail_activity_type
+key force_next is not in odoo 17 table public.mail_activity_type
+key default_description is not in odoo 17 table public.mail_activity_type
+key group_id is not in odoo 17 table public.account_analytic_account
+key message_main_attachment_id is not in odoo 17 table public.account_analytic_account
+key transform_location is not in odoo 17 table public.stock_location
+key frozen_location is not in odoo 17 table public.stock_location
+key pick_priority is not in odoo 17 table public.stock_location
+key subcontracting_material_account_id is not in odoo 17 table public.stock_location
+key subcontracting_fee_account_id is not in odoo 17 table public.stock_location
+key company_id is not in odoo 17 table public.ir_act_report_xml
+key mxdevice_id is not in odoo 17 table public.ir_act_report_xml
+key company_registry is not in odoo 17 table public.res_company
+key base_onboarding_company_state is not in odoo 17 table public.res_company
+key chart_template_id is not in odoo 17 table public.res_company
+key property_stock_account_input_categ_id is not in odoo 17 table public.res_company
+key property_stock_account_output_categ_id is not in odoo 17 table public.res_company
+key property_stock_valuation_account_id is not in odoo 17 table public.res_company
+key account_tax_fiscal_country_id is not in odoo 17 table public.res_company
+key invoice_is_print is not in odoo 17 table public.res_company
+key account_setup_bank_data_state is not in odoo 17 table public.res_company
+key account_setup_fy_data_state is not in odoo 17 table public.res_company
+key account_setup_coa_state is not in odoo 17 table public.res_company
+key account_onboarding_invoice_layout_state is not in odoo 17 table public.res_company
+key account_onboarding_create_invoice_state is not in odoo 17 table public.res_company
+key account_onboarding_sale_tax_state is not in odoo 17 table public.res_company
+key account_invoice_onboarding_state is not in odoo 17 table public.res_company
+key account_dashboard_onboarding_state is not in odoo 17 table public.res_company
+key account_setup_bill_state is not in odoo 17 table public.res_company
+key payment_acquirer_onboarding_state is not in odoo 17 table public.res_company
+key sale_quotation_onboarding_state is not in odoo 17 table public.res_company
+key sale_onboarding_order_confirmation_state is not in odoo 17 table public.res_company
+key sale_onboarding_sample_quotation_state is not in odoo 17 table public.res_company
+key leave_timesheet_project_id is not in odoo 17 table public.res_company
+key leave_timesheet_task_id is not in odoo 17 table public.res_company
+key account_tax_original_periodicity_reminder_day is not in odoo 17 table public.res_company
+key account_tax_next_activity_type is not in odoo 17 table public.res_company
+key auto_invoice is not in odoo 17 table public.res_company
+key purchase_auto_invoice is not in odoo 17 table public.res_company
+key keyboard_layout is not in odoo 17 table public.res_company
+key days is not in odoo 17 table public.account_payment_term_line
+key day_of_the_month is not in odoo 17 table public.account_payment_term_line
+key option is not in odoo 17 table public.account_payment_term_line
+key sequence is not in odoo 17 table public.account_payment_term_line
+key message_main_attachment_id is not in odoo 17 table public.product_product
+key gross_weight is not in odoo 17 table public.product_product
+key address_home_id is not in odoo 17 table public.hr_employee
+key departure_reason is not in odoo 17 table public.hr_employee
+key work_location is not in odoo 17 table public.hr_employee
+key leave_manager_id is not in odoo 17 table public.hr_employee
+key timesheet_cost is not in odoo 17 table public.hr_employee
+key timesheet_validated is not in odoo 17 table public.hr_employee
+key sequence is not in odoo 17 table public.account_payment_method
+key partner_email is not in odoo 17 table public.project_project
+key partner_phone is not in odoo 17 table public.project_project
+key subtask_project_id is not in odoo 17 table public.project_project
+key allow_subtasks is not in odoo 17 table public.project_project
+key allow_recurring_tasks is not in odoo 17 table public.project_project
+key message_main_attachment_id is not in odoo 17 table public.project_project
+key sale_order_id is not in odoo 17 table public.project_project
+key bill_type is not in odoo 17 table public.project_project
+key pricing_type is not in odoo 17 table public.project_project
+key address_id is not in odoo 17 table public.hr_expense_sheet
+key bank_journal_id is not in odoo 17 table public.hr_expense_sheet
+key account_move_id is not in odoo 17 table public.hr_expense_sheet
+key create_uid is not in odoo 17 table public.ir_module_module_dependency
+key create_date is not in odoo 17 table public.ir_module_module_dependency
+key write_date is not in odoo 17 table public.ir_module_module_dependency
+key write_uid is not in odoo 17 table public.ir_module_module_dependency
+key report_name is not in odoo 17 table public.mail_template
+key report_template is not in odoo 17 table public.mail_template
+key is_website is not in odoo 17 table public.utm_campaign
+key group_id is not in odoo 17 table public.account_analytic_line
+key move_id is not in odoo 17 table public.account_analytic_line
+key holiday_id is not in odoo 17 table public.account_analytic_line
+key non_allow_billable is not in odoo 17 table public.account_analytic_line
+key oauth_provider_id is not in odoo 17 table public.res_users
+key oauth_uid is not in odoo 17 table public.res_users
+key oauth_access_token is not in odoo 17 table public.res_users
+key tax_cash_basis_move_id is not in odoo 17 table public.account_move
+key edi_state is not in odoo 17 table public.account_move
+key is_transform is not in odoo 17 table public.account_move
+key transfer_task_id is not in odoo 17 table public.account_move
+key maintenance_id is not in odoo 17 table public.account_move
+key asset_check_line_id is not in odoo 17 table public.account_move
+key current_amount_payment is not in odoo 17 table public.account_move
+key invoice_tax_id is not in odoo 17 table public.account_tax_repartition_line
+key refund_tax_id is not in odoo 17 table public.account_tax_repartition_line
+key message_main_attachment_id is not in odoo 17 table public.crm_team
+key use_quotations is not in odoo 17 table public.crm_team
+key sms_mass_keep_log is not in odoo 17 table public.ir_act_server
+key zip_from is not in odoo 17 table public.delivery_carrier
+key zip_to is not in odoo 17 table public.delivery_carrier
+key match_total_amount is not in odoo 17 table public.account_reconcile_model
+key match_total_amount_param is not in odoo 17 table public.account_reconcile_model
+key message_main_attachment_id is not in odoo 17 table public.hr_department
+key ignore_cost is not in odoo 17 table public.stock_picking_type
+key show_operation_detail_line is not in odoo 17 table public.stock_picking_type
+key display_name is not in odoo 17 table public.res_partner
+key credit_limit is not in odoo 17 table public.res_partner
+key message_main_attachment_id is not in odoo 17 table public.res_partner
+key x_studio_field_1121 is not in odoo 17 table public.res_partner
+key x_studio_field_1394 is not in odoo 17 table public.res_partner
+key x_studio_field_1671 is not in odoo 17 table public.res_partner
+key x_studio_field_1952 is not in odoo 17 table public.res_partner
+key x_studio_field_2519 is not in odoo 17 table public.res_partner
+key "x_Quality_Management_System" is not in odoo 17 table public.res_partner
+key "x_Score_Card" is not in odoo 17 table public.res_partner
+key "x_On_Time_Delivery" is not in odoo 17 table public.res_partner
+key "x_Critical_Process" is not in odoo 17 table public.res_partner
+key "x_Open_Issues" is not in odoo 17 table public.res_partner
+key "x_Sole_Source" is not in odoo 17 table public.res_partner
+key "x_Competitive_Cost" is not in odoo 17 table public.res_partner
+key "x_Rank" is not in odoo 17 table public.res_partner
+key message_main_attachment_id is not in odoo 17 table public.product_template
+key service_to_purchase is not in odoo 17 table public.product_template
+key produce_delay is not in odoo 17 table public.product_template
+key version is not in odoo 17 table public.product_template
+key x_studio_field_1065 is not in odoo 17 table public.product_template
+key purchase_requisition is not in odoo 17 table public.product_template
+key ignore_cost is not in odoo 17 table public.product_template
+key x_studio_field_1423 is not in odoo 17 table public.product_template
+key x_studio_field_2102 is not in odoo 17 table public.product_template
+key gross_weight is not in odoo 17 table public.product_template
+key x_studio_field_1332 is not in odoo 17 table public.product_template
+key x_studio_field_3177 is not in odoo 17 table public.product_template
+key x_studio_field_4480 is not in odoo 17 table public.product_template
+key CONSTRAINT is not in odoo 17 table public.product_template
+key field_parent is not in odoo 17 table public.ir_ui_view
+key no_auto_thread is not in odoo 17 table public.mail_message
+key moderation_status is not in odoo 17 table public.mail_message
+key moderator_id is not in odoo 17 table public.mail_message
+key add_sign is not in odoo 17 table public.mail_message
+key is_share_file is not in odoo 17 table public.mail_message
+key share_file_name is not in odoo 17 table public.mail_message
+key share_file_url is not in odoo 17 table public.mail_message
+key module_google_drive is not in odoo 17 table public.res_config_settings
+key module_google_spreadsheet is not in odoo 17 table public.res_config_settings
+key module_base_gengo is not in odoo 17 table public.res_config_settings
+key module_inter_companys is not in odoo 17 table public.res_config_settings
+key module_pad is not in odoo 17 table public.res_config_settings
+key fail_counter is not in odoo 17 table public.res_config_settings
+key alias_domain is not in odoo 17 table public.res_config_settings
+key module_sale_product_configurator is not in odoo 17 table public.res_config_settings
+key chart_template_id is not in odoo 17 table public.res_config_settings
+key module_account_general is not in odoo 17 table public.res_config_settings
+key group_analytic_tags is not in odoo 17 table public.res_config_settings
+key group_show_line_subtotals_tax_excluded is not in odoo 17 table public.res_config_settings
+key group_show_line_subtotals_tax_included is not in odoo 17 table public.res_config_settings
+key show_line_subtotals_tax_selection is not in odoo 17 table public.res_config_settings
+key module_account_plaid is not in odoo 17 table public.res_config_settings
+key module_account_yodlee is not in odoo 17 table public.res_config_settings
+key module_l10n_eu_service is not in odoo 17 table public.res_config_settings
+key use_quotation_validity_days is not in odoo 17 table public.res_config_settings
+key deposit_default_product_id is not in odoo 17 table public.res_config_settings
+key module_sale_coupon is not in odoo 17 table public.res_config_settings
+key template_id is not in odoo 17 table public.res_config_settings
+key confirmation_template_id is not in odoo 17 table public.res_config_settings
+key module_sale_quotation_builder is not in odoo 17 table public.res_config_settings
+key module_procurement_jit is not in odoo 17 table public.res_config_settings
+key group_display_incoterm is not in odoo 17 table public.res_config_settings
+key crm_alias_prefix is not in odoo 17 table public.res_config_settings
+key generate_lead_from_alias is not in odoo 17 table public.res_config_settings
+key module_crm_iap_lead is not in odoo 17 table public.res_config_settings
+key module_crm_iap_lead_website is not in odoo 17 table public.res_config_settings
+key module_crm_iap_lead_enrich is not in odoo 17 table public.res_config_settings
+key module_mail_client_extension is not in odoo 17 table public.res_config_settings
+key module_account_predictive_bills is not in odoo 17 table public.res_config_settings
+key expense_alias_prefix is not in odoo 17 table public.res_config_settings
+key use_mailgateway is not in odoo 17 table public.res_config_settings
+key module_hr_expense_approval_flow is not in odoo 17 table public.res_config_settings
+key module_mrp_workorder is not in odoo 17 table public.res_config_settings
+key group_locked_by_default is not in odoo 17 table public.res_config_settings
+key module_project_forecast is not in odoo 17 table public.res_config_settings
+key group_subtask_project is not in odoo 17 table public.res_config_settings
+key module_hr_holidays_approval_flow is not in odoo 17 table public.res_config_settings
+key module_project_timesheet_synchro is not in odoo 17 table public.res_config_settings
+key auth_oauth_google_enabled is not in odoo 17 table public.res_config_settings
+key auth_oauth_google_client_id is not in odoo 17 table public.res_config_settings
+key server_uri_google is not in odoo 17 table public.res_config_settings
+key base_saas_domain is not in odoo 17 table public.res_config_settings
+key current_domain is not in odoo 17 table public.res_config_settings
+key domain_change_link is not in odoo 17 table public.res_config_settings
+key group_mrp_replace_raw is not in odoo 17 table public.res_config_settings
+key menu_version is not in odoo 17 table public.res_config_settings
+key module_account_mxreports is not in odoo 17 table public.res_config_settings
+key group_barcode_keyboard_shortcuts is not in odoo 17 table public.res_config_settings
+key covisint_dir_url is not in odoo 17 table public.res_config_settings
+key covisint_order_url is not in odoo 17 table public.res_config_settings
+key covisint_pull_username is not in odoo 17 table public.res_config_settings
+key covisint_pull_password is not in odoo 17 table public.res_config_settings
+key covisint_push_url is not in odoo 17 table public.res_config_settings
+key covisint_push_username is not in odoo 17 table public.res_config_settings
+key covisint_push_password is not in odoo 17 table public.res_config_settings
+key covisint_read_order_url is not in odoo 17 table public.res_config_settings
+key covisint_purpose_code is not in odoo 17 table public.res_config_settings
+key kanban_state is not in odoo 17 table public.project_task
+key planned_hours is not in odoo 17 table public.project_task
+key user_id is not in odoo 17 table public.project_task
+key partner_email is not in odoo 17 table public.project_task
+key partner_phone is not in odoo 17 table public.project_task
+key email_from is not in odoo 17 table public.project_task
+key message_main_attachment_id is not in odoo 17 table public.project_task
+key timesheet_product_id is not in odoo 17 table public.project_task
+key non_allow_billable is not in odoo 17 table public.project_task
+key legend_blocked is not in odoo 17 table public.project_task_type
+key legend_done is not in odoo 17 table public.project_task_type
+key legend_normal is not in odoo 17 table public.project_task_type
+key auto_validation_kanban_state is not in odoo 17 table public.project_task_type
+key is_closed is not in odoo 17 table public.project_task_type
+key category_id is not in odoo 17 table public.ir_ui_menu
+key is_show_in_client is not in odoo 17 table public.ir_ui_menu
+key payment_debit_account_id is not in odoo 17 table public.account_journal
+key payment_credit_account_id is not in odoo 17 table public.account_journal
+key at_least_one_inbound is not in odoo 17 table public.account_journal
+key at_least_one_outbound is not in odoo 17 table public.account_journal
+key message_main_attachment_id is not in odoo 17 table public.account_journal
+key field is not in odoo 17 table public.mail_tracking_value
+key field_desc is not in odoo 17 table public.mail_tracking_value
+key field_type is not in odoo 17 table public.mail_tracking_value
+key old_value_monetary is not in odoo 17 table public.mail_tracking_value
+key new_value_monetary is not in odoo 17 table public.mail_tracking_value
+key tracking_sequence is not in odoo 17 table public.mail_tracking_value
+key approval is not in odoo 17 table public.mail_activity
+key note_id is not in odoo 17 table public.mail_activity
+key channel_id is not in odoo 17 table public.mail_followers
+key CONSTRAINT is not in odoo 17 table public.mail_followers
+key reveal_id is not in odoo 17 table public.crm_iap_lead_industry
