@@ -12,6 +12,8 @@ def find_createTableAndCopy(full_text):
             output_file.write(match + '\n')  # 将每个匹配项写入文件，并在末尾添加换行符
 
 def find_tableAndKey():
+    with open('output_tableAndKey.txt', 'w') as f:
+        f.truncate(0)
     with open('mx_17.txt', 'r', encoding='utf-8') as file:
         lines1 = file.readlines()
         for line in lines1:
